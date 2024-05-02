@@ -3,7 +3,7 @@
 
 A repository for learning LangChain🦜🔗  by building a generative ai application.
 
-This is a web application crawling Linkedin & Twitter data about a person and customizes an ice breaker with them.
+This is a web application crawling Linkedin about a person and customizes an ice breaker with them.
 
 
 
@@ -19,13 +19,6 @@ To run this project, you will need to add the following environment variables to
 
 `TAVILY_API_KEY`
 
-`TWITTER_API_KEY`
-
-`TWITTER_API_SECRET`
-
-`TWITTER_ACCESS_TOKEN`
-
-`TWITTER_ACCESS_SECRET`
 ## Run Locally
 
 Clone the project
@@ -61,9 +54,4 @@ To run tests, run the following command
   pipenv run pytest .
 ```
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.udemy.com/course/langchain/?referralCode=D981B8213164A3EA91AC)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eden-marco/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.udemy.com/user/eden-marco/)
 
