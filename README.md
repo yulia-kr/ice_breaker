@@ -6,7 +6,7 @@ A repository for learning LangChain🦜🔗  by building a generative ai applica
 This is a web application crawling Linkedin about a person and customizes an ice breaker with them.
 
 
-![](https://github.com/yulia-kr/ice_breaker/assets/100228348/3f5eecba-6515-4f05-b2fa-68d0ab99bb44)
+![Logo](https://github.com/yulia-kr/ice_breaker/assets/100228348/3f5eecba-6515-4f05-b2fa-68d0ab99bb44)
 
 
 
